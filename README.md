@@ -8,4 +8,4 @@ brew install --cask ohsawa0515/tap/hanare
 
 | Cask | Description |
 | --- | --- |
-| [hanare](https://github.com/ohsawa0515/hanare) | Menu bar icon hider for macOS 27 with a kyudo archer |
+| [hanare](https://github.com/ohsawa0515/hanare) | Menu bar icon hider for macOS with a kyudo archer |
