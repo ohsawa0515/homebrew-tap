@@ -1,6 +1,6 @@
 cask "hanare" do
-  version "0.1.0"
-  sha256 "747138afd6b92e90a8ea3657fcc514978b7de3651d5bd1cfb3a4c4e7abc74b85"
+  version "0.2.0"
+  sha256 "69ee1fb017ae17652d76e14ec8c60f32836d87208398173954d9fad854e0d9ae"
 
   url "https://github.com/ohsawa0515/hanare/releases/download/v#{version}/Hanare-#{version}.zip"
   name "Hanare"
